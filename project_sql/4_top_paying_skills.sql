@@ -33,7 +33,7 @@ Tools like Pandas ($151,821), Jupyter ($152,777), and Numpy ($143,513) are essen
     highlighting their importance in the data analyst role. GCP ($122,500) and Kubernetes ($132,500) underscore the need for cloud platform and container orchestration skills.
 - Specialized and Collaboration Technologies
 Databricks ($141,907) and Microstrategy ($121,619) show the value of specialized analytics platforms. 
-    Collaboration tools like Atlassian ($131,162) and Notion ($125,000) are also crucial, emphasizing the role of project management and team collaboration in data analytics.
+ Collaboration tools like Atlassian ($131,162) and Notion ($125,000) are also crucial, emphasizing the role of project management and team collaboration in data analytics.
 
 [
   {
