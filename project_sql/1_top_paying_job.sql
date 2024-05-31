@@ -24,5 +24,7 @@ Question: What skills are required for the top-paying data analyst jobs?
         salary_year_avg IS NOT NULL
     ORDER BY
         salary_year_avg DESC
-    LIMIT 10
+    LIMIT 10;
+
+
 
