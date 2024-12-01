@@ -209,7 +209,7 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 - **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 - **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions unto actionable, insightful SQL queries.
 
-# Conclusins
+# Conclusion
 ### Insights
 
 1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
